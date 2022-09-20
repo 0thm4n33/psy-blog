@@ -1,0 +1,46 @@
+.header{
+    display: flex;
+    align-items:center;
+    justify-content: center;
+    flex-direction: column;
+    flex-wrap: wrap;
+    margin: 50px;
+    padding: 10px;
+}
+
+
+.title{
+    font-family: "Poppins";
+    font-weight: bold;
+    text-align: center;
+    padding-top: 15px;
+    margin-bottom: 15px;
+}
+
+.subtitle{
+    width: 55%;
+    height: 100%;
+    font-family: Poppins;
+    font-weight: lighter;
+    text-align: center;
+    color: #282828BF;
+    white-space: normal;
+}
+
+.sub-header{
+    width: 100%;
+    display: inline-flex;
+    justify-content: space-around;
+    align-items: center;
+    flex-wrap: wrap;
+    gap: 50%;
+}
+
+
+.center{
+    padding: 10px;
+    margin: 15px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
